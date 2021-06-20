@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 # image: 合照__.jpg
 image_frontpage: 合照__.jpg
-image_complete: 合照.jpg
+image: 合照.jpg
 ---
 
 # Millennial
