@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "团里的小伙伴们<br>Friends"
 author: "Paul Le"
 categories: sample
 tags: [sample]
