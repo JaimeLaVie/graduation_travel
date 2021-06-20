@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Graduation Travel"
+title:		           "毕业旅行  Graduation Travel"
 description:	       "a minimalist Jekyll theme for running a blog or publication"
 author:              ""
 
