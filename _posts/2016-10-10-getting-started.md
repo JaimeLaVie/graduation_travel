@@ -4,7 +4,8 @@ title: "我们的美好瞬间<br>Our Happy Moments"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: 合照__.jpg
+image_frontpage: 合照__.jpg
+image_complete: 合照.jpg
 ---
 
 # Millennial
