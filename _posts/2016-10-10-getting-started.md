@@ -4,7 +4,7 @@ title: "我们的美好瞬间"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: 合照.jpg
+image: 合照_.jpg
 ---
 
 # Millennial
