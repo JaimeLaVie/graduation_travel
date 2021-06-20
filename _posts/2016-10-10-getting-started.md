@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "我们的美好瞬间"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: 合照.jpg
 ---
 
 # Millennial
