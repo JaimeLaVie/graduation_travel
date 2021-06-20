@@ -4,7 +4,6 @@ title: "跨越3000公里的行程<br>Itinerary Spanning 3000 Kilometers"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-# image: 行程.png
 image_frontpage: 行程.png
 image: 行程.png
 ---
