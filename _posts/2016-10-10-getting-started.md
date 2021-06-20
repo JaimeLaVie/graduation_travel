@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我们的美好瞬间 Our Happy Moments"
+title: "我们的美好瞬间<br>Our Happy Moments"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
