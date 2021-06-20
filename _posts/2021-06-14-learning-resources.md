@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我们的视频<br>Our Video"
-author: "王晶冰"
+author: "王大佬"
 categories: resources
 tags: [documentation,sample]
 image_frontpage: 水上雅丹.jpg
