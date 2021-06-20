@@ -14,7 +14,7 @@ image: 水上雅丹.jpg
 
 团歌两首：天问；热爱105℃的你：
 
-## [天问 Tian Wen](https://www.youtube.com/watch?v=giPzaAsH71g&t=42s)
+## [天问 Tian Wen](https://www.youtube.com/watch?v=giPzaAsH71g)
 
 ## [热爱105℃的你 You Who Love 105°C](https://www.youtube.com/watch?v=JXU153ck9Ao)
 
