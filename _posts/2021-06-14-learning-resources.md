@@ -8,7 +8,7 @@ image_frontpage: 水上雅丹.jpg
 image: 水上雅丹.jpg
 ---
 
-摸鱼王大佬倾情剪辑，配上两首团歌，绝绝子。
+摸鱼王大佬倾情剪辑，配上两首团歌，绝绝子~~
 
 ## [快上抖音看我们的视频！ Our Vedio on Douyin!](https://v.douyin.com/eCqPv9T/)
 
