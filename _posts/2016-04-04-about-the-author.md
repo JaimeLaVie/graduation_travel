@@ -8,6 +8,16 @@ image_frontpage: 清华北大.png
 image: 清华北大.png
 ---
 
-2021年
+2021年6、7月，我们毕业啦！
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+此处应有毕业照1，[个人网页 Personal Website](https://jaimelavie.github.io/)
+
+此处应有毕业照2
+
+此处应有毕业照3
+
+此处应有毕业照4
+
+此处应有毕业照5
+
+此处应有毕业照6
