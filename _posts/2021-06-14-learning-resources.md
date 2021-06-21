@@ -10,7 +10,7 @@ image: 水上雅丹.jpg
 
 ### 摸鱼王大佬倾情剪辑，配上两首团歌，绝绝子~~
 
-<iframe height=560 width=315 src='https://player.youku.com/embed/XNTE3MDc3ODAwOA==' frameborder=0 allowfullscreen></iframe>
+<iframe height=315 width=560 src='https://player.youku.com/embed/XNTE3MDc3ODAwOA==' frameborder=0 allowfullscreen></iframe>
 
 ## [快上抖音看我们的视频！ Our Video on Douyin!](https://v.douyin.com/eCqPv9T/)
 
