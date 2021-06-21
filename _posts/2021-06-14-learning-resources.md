@@ -16,9 +16,9 @@ image: 水上雅丹.jpg
 
 ## 团歌两首：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giPzaAsH71g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53nrK_sxdbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [天问 Tian Wen](https://www.youtube.com/watch?v=giPzaAsH71g)
+## [天问 Tian Wen](https://www.youtube.com/watch?v=53nrK_sxdbw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXU153ck9Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
