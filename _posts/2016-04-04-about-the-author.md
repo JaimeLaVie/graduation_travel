@@ -4,8 +4,8 @@ title: "我们毕业啦！<br>We Graduated!"
 author: "Paul Le"
 categories: facts
 tags: [sample]
-image_frontpage: 清华北大.png
-image: 清华北大.png
+image_frontpage: 清华北大.jpeg
+image: 清华北大.jpeg
 ---
 
 2021年6、7月，我们毕业啦！
