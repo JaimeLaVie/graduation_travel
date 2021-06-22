@@ -11,8 +11,23 @@ image: 合照.jpg
 
 ### 银川
 
-<img src="{{ site.github.url }}/assets/img/徐.jpg">
-> 导
+<img src="{{ site.github.url }}/assets/img/银川步行街.jpg">
+> 银川步行街和鼓楼
+
+<img src="{{ site.github.url }}/assets/img/南门广场.jpg">
+> 南门广场——小天安门
+
+<img src="{{ site.github.url }}/assets/img/怀远市场.jpg">
+> 怀远市场——好久没遇到过这么有烟火味的夜市了
+
+<img src="{{ site.github.url }}/assets/img/南门广场.jpg">
+> 南门广场——小天安门
+
+<img src="{{ site.github.url }}/assets/img/西夏王陵.jpg">
+> 西夏王陵
+
+<img src="{{ site.github.url }}/assets/img/镇北堡.jpg">
+> 镇北堡——紫霞仙子和至尊宝
 
 ### 中卫
 
