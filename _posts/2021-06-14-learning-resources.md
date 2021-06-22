@@ -20,10 +20,10 @@ image: 水上雅丹.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/53nrK_sxdbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [天问 Tian Wen](https://www.youtube.com/watch?v=53nrK_sxdbw)
+## [天问 Tian Wen](https://www.bilibili.com/video/BV1WA411K7EN?share_source=copy_web)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXU153ck9Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [热爱105℃的你 You Who Love 105°C](https://www.youtube.com/watch?v=JXU153ck9Ao)
+## [热爱105℃的你 You Who Love 105°C](https://y.qq.com/n/ryqq/player)
 
 
