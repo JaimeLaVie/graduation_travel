@@ -4,7 +4,7 @@ title: "跨越4000公里的行程<br> An Itinerary Spanning 4000 Kilometers"
 subtitle: 就说厉不厉害
 author: 饮马黄河风流团
 categories: Itinerary
-tags: [Itinerary]
+tags: [Itinerary, Pictures]
 image_frontpage: 行程.png
 image: 行程.png
 ---
