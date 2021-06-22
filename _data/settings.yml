@@ -26,8 +26,8 @@ social:
 
 # Customize site text
 pagination:
-  previous_page: '愿将来的人生'
-  next_page: '还能时常想起'
+  next_page: '愿将来的人生'
+  previous_page: '还能时常想起'
 
 sharing_button_prompt: '欢迎分享 Feel free to share!'
 
