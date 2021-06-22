@@ -2,8 +2,8 @@
 layout: post
 title: "我们的美好瞬间<br>Our Happy Moments"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+categories: Pictures
+tags: [Pictures]
 image_frontpage: 合照__.jpg
 image: 合照.jpg
 ---
