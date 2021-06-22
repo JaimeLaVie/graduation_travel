@@ -2,5 +2,5 @@
 layout: category
 title: Video
 category: Video
-permalink: /video
+permalink: /video_shipin
 ---
