@@ -10,7 +10,7 @@ menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
 - {name: '行程',       url: 'itinerary_xingcheng'}
-- {name: '图片',      url: 'documentation'}
+- {name: '图片',      url: 'pictures'}
 - {name: '视频',              url: 'about'}
 - {name: '毕业',            url: 'contact'}
 
