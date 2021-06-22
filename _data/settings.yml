@@ -16,6 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'weibo', link:    'https://weibo.com/'}
 - {icon: 'twitter', link:    'https://twitter.com/'}
 - {icon: 'facebook', link:   'https://www.facebook.com/'}
 - {icon: 'instagram', link:  'https://instagram.com/'}
