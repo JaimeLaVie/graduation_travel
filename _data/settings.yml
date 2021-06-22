@@ -11,7 +11,7 @@ menu:
 # - {name: 'Learning Resources', url: 'resources'}
 - {name: '行程',       url: 'itinerary_xingcheng'}
 - {name: '图片',      url: 'pictures'}
-- {name: '视频',              url: 'about'}
+- {name: '视频',              url: 'video'}
 - {name: '毕业',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
