@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "我们毕业啦！<br>We Graduated!"
+subtitle: "献给过去三年努力的自己！"
 author: "清华北大四人团"
 categories: facts
 tags: [sample]
