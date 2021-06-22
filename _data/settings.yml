@@ -9,7 +9,7 @@ google-ID: 'G-GP4F3208ZT'
 menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Itinerary',       url: 'sample-posts'}
+- {name: 'Itinerary',       url: 'itinerary_xingcheng'}
 - {name: 'Pictures',      url: 'documentation'}
 - {name: 'Video',              url: 'about'}
 - {name: 'Graduation',            url: 'contact'}
