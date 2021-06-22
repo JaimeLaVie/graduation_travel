@@ -11,7 +11,7 @@ image: 清华北大.jpeg
 
 2021年6、7月，我们毕业啦！
 
-此处应有毕业照1，[个人网页 Personal Website](https://jaimelavie.github.io/)
+[此处应有毕业照1](https://jaimelavie.github.io/)
 
 此处应有毕业照2
 
