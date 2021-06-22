@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨越4000公里的行程<br>Itinerary Spanning 4000 Kilometers"
+title: "跨越4000公里的行程<br> An Itinerary Spanning 4000 Kilometers"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
