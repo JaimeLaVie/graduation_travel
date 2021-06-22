@@ -9,7 +9,7 @@ image_frontpage: 行程.png
 image: 行程.png
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+我们的行程从银川开始，横跨宁夏、甘肃、青海三省。从塞上江南到河西走廊，从戈壁大漠到盆地盐湖，我们走过了
 
 ## Getting Started
 
