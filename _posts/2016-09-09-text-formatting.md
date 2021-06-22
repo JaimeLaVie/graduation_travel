@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "团里的小伙伴们<br>The Four of Us"
+subtitle: 香港-苏州-宁甘青 一起走过
 author: 饮马黄河风流团
 categories: sample
 tags: [sample]
