@@ -81,8 +81,14 @@ image: 合照.jpg
 
 ### 阿克塞
 
-<img src="{{ site.github.url }}/assets/img/徐.jpg">
-> 导
+<img src="{{ site.github.url }}/assets/img/阿克塞怪兽.jpg">
+> 博罗转井影视基地——废弃的阿克塞县老县城
+
+<img src="{{ site.github.url }}/assets/img/阿克塞政府.jpg">
+> 阿克塞县政府旧址
+
+<img src="{{ site.github.url }}/assets/img/阿克塞废墟.jpg">
+> 废墟
 
 ### 大柴旦
 
