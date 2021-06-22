@@ -31,8 +31,14 @@ image: 合照.jpg
 
 ### 中卫
 
-<img src="{{ site.github.url }}/assets/img/徐.jpg">
-> 导
+<img src="{{ site.github.url }}/assets/img/银川至中卫.jpg">
+> 国道上的航拍
+
+<img src="{{ site.github.url }}/assets/img/沙坡头.jpg">
+> 沙坡头
+
+<img src="{{ site.github.url }}/assets/img/沙坡头2.jpg">
+> 沙山和湖水
 
 ### 兰州
 
