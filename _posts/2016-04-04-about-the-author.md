@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我们毕业啦！<br>We Graduated!"
-author: "Paul Le"
+author: "清华北大四人团"
 categories: facts
 tags: [sample]
 image_frontpage: 清华北大.jpeg
