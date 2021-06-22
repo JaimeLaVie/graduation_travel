@@ -9,10 +9,10 @@ google-ID: 'UA-112060364-2'
 menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
-# - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
-# - {name: 'About',              url: 'about'}
-# - {name: 'Contact',            url: 'contact'}
+- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Documentation',      url: 'documentation'}
+- {name: 'About',              url: 'about'}
+- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -26,7 +26,7 @@ social:
 # Customize site text
 pagination:
   previous_page: '愿将来的人生'
-  next_page: '记着过往的美好'
+  next_page: '还能时常想起'
 
 sharing_button_prompt: '欢迎分享 Feel free to share!'
 
