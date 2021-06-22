@@ -9,10 +9,10 @@ google-ID: 'G-GP4F3208ZT'
 menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Itinerary',       url: 'itinerary_xingcheng'}
-- {name: 'Pictures',      url: 'documentation'}
-- {name: 'Video',              url: 'about'}
-- {name: 'Graduation',            url: 'contact'}
+- {name: '行程',       url: 'itinerary_xingcheng'}
+- {name: '图片',      url: 'documentation'}
+- {name: '视频',              url: 'about'}
+- {name: '毕业',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
