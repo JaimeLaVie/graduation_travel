@@ -11,6 +11,9 @@ image: 合照.jpg
 
 ### 银川
 
+<img src="{{ site.github.url }}/assets/img/银川欢迎您.jpg">
+> 银川欢迎您
+
 <img src="{{ site.github.url }}/assets/img/银川步行街.jpg">
 > 银川步行街和鼓楼
 
@@ -19,9 +22,6 @@ image: 合照.jpg
 
 <img src="{{ site.github.url }}/assets/img/怀远市场.jpg">
 > 怀远市场——好久没遇到过这么有烟火味的夜市了
-
-<img src="{{ site.github.url }}/assets/img/南门广场.jpg">
-> 南门广场——小天安门
 
 <img src="{{ site.github.url }}/assets/img/西夏王陵.jpg">
 > 西夏王陵
@@ -44,6 +44,27 @@ image: 合照.jpg
 
 <img src="{{ site.github.url }}/assets/img/兰州.jpg">
 > 黄河夜景
+
+<img src="{{ site.github.url }}/assets/img/黄河母亲.jpg">
+> 黄河母亲
+
+<img src="{{ site.github.url }}/assets/img/马踏飞燕.jpg">
+> 马踏飞燕
+
+<img src="{{ site.github.url }}/assets/img/甘肃省博文物.jpg">
+> 好看不？
+
+<img src="{{ site.github.url }}/assets/img/羊皮筏子.jpg">
+> 坐着羊皮筏子的我们
+
+<img src="{{ site.github.url }}/assets/img/中山桥.jpg">
+> 白塔山半山腰上看中山桥
+
+<img src="{{ site.github.url }}/assets/img/兰州西关清真大寺.jpg">
+> 西关清真大寺
+
+<img src="{{ site.github.url }}/assets/img/兰州西.jpg">
+> 兰州西
 
 ### 武威
 

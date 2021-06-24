@@ -11,6 +11,12 @@ image: 清华北大.jpeg
 
 2021年6、7月，我们毕业啦！
 
+<img src="{{ site.github.url }}/assets/img/论文答辩1.jpg">
+> 答辩时的导游徐
+
+<img src="{{ site.github.url }}/assets/img/论文答辩2.jpg">
+> 答辩完的导游徐
+
 [此处应有毕业照1](https://jaimelavie.github.io/)
 
 此处应有毕业照2
