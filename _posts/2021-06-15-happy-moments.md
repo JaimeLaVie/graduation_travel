@@ -71,6 +71,33 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/祁连.jpg">
 > 马牙雪山
 
+<img src="{{ site.github.url }}/assets/img/行车路上.jpg">
+> 行车路上
+
+<img src="{{ site.github.url }}/assets/img/抓喜秀龙.jpg">
+> 雪山下的小镇——抓喜秀龙
+
+<img src="{{ site.github.url }}/assets/img/雪山下的合照.jpg">
+> 雪山下的合照
+
+<img src="{{ site.github.url }}/assets/img/乌鞘岭.jpg">
+> 河西走廊的起点——乌鞘岭！
+
+<img src="{{ site.github.url }}/assets/img/天梯山石窟.jpg">
+> 天梯山石窟
+
+<img src="{{ site.github.url }}/assets/img/天梯山下的水库.jpg">
+> 天梯山下的水库
+
+<img src="{{ site.github.url }}/assets/img/武威收费站.jpg">
+> 进城啦！
+
+<img src="{{ site.github.url }}/assets/img/凉州.jpg">
+> 凉州城门
+
+<img src="{{ site.github.url }}/assets/img/鸠摩罗什寺.jpg">
+> 鸠摩罗什寺
+
 ### 张掖
 
 <img src="{{ site.github.url }}/assets/img/丹霞.jpg">
