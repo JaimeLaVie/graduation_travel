@@ -103,8 +103,29 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/丹霞.jpg">
 > 七彩丹霞
 
+<img src="{{ site.github.url }}/assets/img/七彩丹霞-道路.jpg">
+> 七彩丹霞-道路
+
+<img src="{{ site.github.url }}/assets/img/七彩丹霞-傍晚.jpg">
+> 七彩丹霞-傍晚
+
+<img src="{{ site.github.url }}/assets/img/张掖大佛寺.jpg">
+> 张掖大佛寺
+
+<img src="{{ site.github.url }}/assets/img/木塔寺.jpg">
+> 张掖木塔寺
+
 <img src="{{ site.github.url }}/assets/img/平山湖.jpg">
 > 平山湖大峡谷
+
+<img src="{{ site.github.url }}/assets/img/平山湖-红层地貌.jpg">
+> 平山湖大峡谷-红层地貌
+
+<img src="{{ site.github.url }}/assets/img/峡谷骑骆驼.jpg">
+> 峡谷骑骆驼
+
+<img src="{{ site.github.url }}/assets/img/平山湖-居高临下.jpg">
+> 居高临下
 
 ### 酒泉
 
