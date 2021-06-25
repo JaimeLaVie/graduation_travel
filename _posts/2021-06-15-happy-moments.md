@@ -201,8 +201,11 @@ image: 合照.jpg
 
 ### 大柴旦
 
-<img src="{{ site.github.url }}/assets/img/徐.jpg">
-> 导
+<img src="{{ site.github.url }}/assets/img/青海界.jpg">
+> 进入青海！
+
+<img src="{{ site.github.url }}/assets/img/翡翠湖.jpg">
+> 翡翠湖（依克柴达木）
 
 ### 格尔木
 
