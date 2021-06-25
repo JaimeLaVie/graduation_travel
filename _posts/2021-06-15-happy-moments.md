@@ -109,6 +109,9 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/七彩丹霞-傍晚.jpg">
 > 七彩丹霞-傍晚
 
+<img src="{{ site.github.url }}/assets/img/张掖鼓楼.jpg">
+> 张掖鼓楼
+
 <img src="{{ site.github.url }}/assets/img/张掖大佛寺.jpg">
 > 张掖大佛寺
 
