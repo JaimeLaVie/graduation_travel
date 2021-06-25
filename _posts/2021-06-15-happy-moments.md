@@ -132,6 +132,9 @@ image: 合照.jpg
 
 ### 酒泉
 
+<img src="{{ site.github.url }}/assets/img/酒泉鼓楼.jpg">
+> 酒泉鼓楼
+
 <img src="{{ site.github.url }}/assets/img/胡杨林.jpg">
 > 金塔沙漠胡杨林
 
