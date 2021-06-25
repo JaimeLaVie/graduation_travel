@@ -208,7 +208,7 @@ image: 合照.jpg
 > 翡翠湖（依克柴达木）
 
 <img src="{{ site.github.url }}/assets/img/东台吉乃尔湖1.jpg">
-> 东台吉乃尔湖
+> 东台吉乃尔湖边的小水沟
 
 <img src="{{ site.github.url }}/assets/img/东台吉乃尔湖2.jpg">
 > 东台吉乃尔湖
