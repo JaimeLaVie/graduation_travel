@@ -213,6 +213,9 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/东台吉乃尔湖2.jpg">
 > 东台吉乃尔湖
 
+<img src="{{ site.github.url }}/assets/img/南八仙魔鬼城（雅丹地貌）.jpg">
+> 南八仙魔鬼城（雅丹地貌）
+
 <img src="{{ site.github.url }}/assets/img/水上雅丹.jpg">
 > 水上雅丹
 
@@ -227,10 +230,18 @@ image: 合照.jpg
 
 ### 格尔木
 
-<img src="{{ site.github.url }}/assets/img/徐.jpg">
-> 导
+<img src="{{ site.github.url }}/assets/img/察尔汗盐湖.jpg">
+> 察尔汗盐湖
+
+<img src="{{ site.github.url }}/assets/img/察尔汗盐湖合照.jpg">
+> 察尔汗盐湖合照
 
 ### 西宁
 
 <img src="{{ site.github.url }}/assets/img/塔尔寺合照.jpg">
 > 塔尔寺合照
+
+### 饮马黄河风流团！
+
+<img src="{{ site.github.url }}/assets/img/饮马黄河风流团.jpg">
+> yyds！
