@@ -158,12 +158,32 @@ image: 合照.jpg
 ### 敦煌
 
 <img src="{{ site.github.url }}/assets/img/玉门关.jpg">
+> 玉门关-大方盘城
+
 > 黄河远上白云间 &ensp; 一片孤城万仞山
 
 > 羌笛何须怨杨柳 &ensp; 春风不度玉门关
 
+<img src="{{ site.github.url }}/assets/img/小方盘城.jpg">
+> 玉门关-小方盘城
+
+<img src="{{ site.github.url }}/assets/img/汉长城.jpg">
+> 玉门关-汉长城遗址
+
+<img src="{{ site.github.url }}/assets/img/又见敦煌.jpg">
+> 又见敦煌！吹爆！
+
+<img src="{{ site.github.url }}/assets/img/敦煌莫高窟1.jpg">
+> 敦煌莫高窟
+
+<img src="{{ site.github.url }}/assets/img/敦煌莫高窟2.jpg">
+> 敦煌莫高窟侧影
+
 <img src="{{ site.github.url }}/assets/img/鸣沙山.jpg">
 > 鸣沙山
+
+<img src="{{ site.github.url }}/assets/img/沙山落日.jpg">
+> 沙山落日
 
 <img src="{{ site.github.url }}/assets/img/月牙泉.jpg">
 > 月牙泉
