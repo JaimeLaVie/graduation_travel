@@ -207,6 +207,24 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/翡翠湖.jpg">
 > 翡翠湖（依克柴达木）
 
+<img src="{{ site.github.url }}/assets/img/东台吉乃尔湖1.jpg">
+> 东台吉乃尔湖
+
+<img src="{{ site.github.url }}/assets/img/东台吉乃尔湖2.jpg">
+> 东台吉乃尔湖
+
+<img src="{{ site.github.url }}/assets/img/水上雅丹.jpg">
+> 水上雅丹
+
+<img src="{{ site.github.url }}/assets/img/水上雅丹2.jpg">
+> 水上雅丹
+
+<img src="{{ site.github.url }}/assets/img/水上雅丹-沙尘暴.jpg">
+> 水上雅丹看了5分钟沙尘暴就来了！被迫离场
+
+<img src="{{ site.github.url }}/assets/img/国道315.jpg">
+> 国道315第780公里处
+
 ### 格尔木
 
 <img src="{{ site.github.url }}/assets/img/徐.jpg">
