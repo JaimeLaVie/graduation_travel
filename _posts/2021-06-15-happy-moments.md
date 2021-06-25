@@ -110,7 +110,7 @@ image: 合照.jpg
 > 七彩丹霞-傍晚
 
 <img src="{{ site.github.url }}/assets/img/张掖鼓楼.jpg">
-> 张掖鼓楼——靖远楼
+> 张掖（甘州）鼓楼——靖远楼
 
 <img src="{{ site.github.url }}/assets/img/张掖大佛寺.jpg">
 > 张掖大佛寺
@@ -133,7 +133,7 @@ image: 合照.jpg
 ### 酒泉
 
 <img src="{{ site.github.url }}/assets/img/酒泉鼓楼.jpg">
-> 酒泉鼓楼
+> 酒泉（肃州）鼓楼
 
 <img src="{{ site.github.url }}/assets/img/胡杨林.jpg">
 > 金塔沙漠胡杨林
