@@ -158,9 +158,9 @@ image: 合照.jpg
 ### 敦煌
 
 <img src="{{ site.github.url }}/assets/img/玉门关.jpg">
-> 黄河远上白云间 &ensp 一片孤城万仞山
+> 黄河远上白云间 &ensp; 一片孤城万仞山
 
-> 羌笛何须怨杨柳 &ensp 春风不度玉门关
+> 羌笛何须怨杨柳 &ensp; 春风不度玉门关
 
 <img src="{{ site.github.url }}/assets/img/鸣沙山.jpg">
 > 鸣沙山
