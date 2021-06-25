@@ -143,6 +143,18 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/嘉峪关.jpg">
 > 嘉峪关
 
+<img src="{{ site.github.url }}/assets/img/嘉峪关全景.jpg">
+> 嘉峪关全景
+
+<img src="{{ site.github.url }}/assets/img/嘉峪关合照.jpg">
+> 嘉峪关合照
+
+<img src="{{ site.github.url }}/assets/img/旅途-嘉峪关至敦煌1.jpg">
+> 旅途-风电机组
+
+<img src="{{ site.github.url }}/assets/img/旅途-嘉峪关至敦煌2.jpg">
+> 旅途-输电设施
+
 ### 敦煌
 
 <img src="{{ site.github.url }}/assets/img/玉门关.jpg">
