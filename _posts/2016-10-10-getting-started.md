@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "我们的美好瞬间<br>Our Happy Moments"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+title: "各奔东西 前程似锦<br>Wish Us a Bright Future!"
+author: "饮马黄河风流团"
+categories: Graduation
+tags: [Graduation]
 image_frontpage: Inked北京上海东京_LI.jpg
 image: Inked北京上海东京_LI.jpg
 ---
