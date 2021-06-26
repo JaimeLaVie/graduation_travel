@@ -266,8 +266,23 @@ image: 合照.jpg
 
 ### 西宁
 
+<img src="{{ site.github.url }}/assets/img/西宁高架.jpg">
+> 西宁高架
+
+<img src="{{ site.github.url }}/assets/img/塔尔寺.jpg">
+> 塔尔寺
+
 <img src="{{ site.github.url }}/assets/img/塔尔寺合照.jpg">
 > 塔尔寺合照
+
+<img src="{{ site.github.url }}/assets/img/酥油茶.jpg">
+> 酥油茶
+
+<img src="{{ site.github.url }}/assets/img/东关清真大寺.jpg">
+> 东关清真大寺
+
+<img src="{{ site.github.url }}/assets/img/河湟里.jpg">
+> 河湟里
 
 ### 饮马黄河风流团！
 
