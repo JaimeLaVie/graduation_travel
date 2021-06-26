@@ -14,6 +14,15 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/毕业照_孙.jpg">
 > 永远跟党走的优秀硕士论文获得者——孙大佬
 
+<img src="{{ site.github.url }}/assets/img/毕业照_卞1.jpg">
+> 卞大佬
+
+<img src="{{ site.github.url }}/assets/img/毕业照_卞2.jpg">
+> “鱼”
+
+<img src="{{ site.github.url }}/assets/img/毕业照_卞3.jpg">
+> 卞大佬
+
 <img src="{{ site.github.url }}/assets/img/论文答辩1.jpg">
 > 答辩时的导游徐
 
@@ -28,12 +37,5 @@ image: 清华北大.jpeg
 
 [》》了解更多](https://jaimelavie.github.io/)
 
-此处应有毕业照2
+此处应有王大佬毕业照
 
-此处应有毕业照3
-
-此处应有毕业照4
-
-此处应有毕业照5
-
-此处应有毕业照6
