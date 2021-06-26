@@ -25,6 +25,9 @@ image: 清华北大.jpeg
 
 [》》了解更多](https://jaimelavie.github.io/)
 
+<img src="{{ site.github.url }}/assets/img/毕业照_孙.jpg">
+> 永远跟党走的孙大佬
+
 此处应有毕业照2
 
 此处应有毕业照3
