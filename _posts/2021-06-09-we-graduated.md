@@ -17,7 +17,13 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/论文答辩2.jpg">
 > 答辩完的导游徐
 
-[此处应有毕业照1](https://jaimelavie.github.io/)
+<img src="{{ site.github.url }}/assets/img/毕业典礼1.jpg">
+> 拨穗前的导游徐
+
+<img src="{{ site.github.url }}/assets/img/毕业典礼2.jpg">
+> 拨穗后的导游徐
+
+[》》了解更多](https://jaimelavie.github.io/)
 
 此处应有毕业照2
 
