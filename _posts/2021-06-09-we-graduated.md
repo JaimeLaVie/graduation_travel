@@ -12,7 +12,7 @@ image: 清华北大.jpeg
 2021年6、7月，我们毕业啦！
 
 <img src="{{ site.github.url }}/assets/img/毕业照_孙.jpg">
-> 永远跟党走的孙大佬
+> 永远跟党走的优秀硕士论文获得者——孙大佬
 
 <img src="{{ site.github.url }}/assets/img/论文答辩1.jpg">
 > 答辩时的导游徐
