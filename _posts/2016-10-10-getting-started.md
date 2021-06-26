@@ -4,8 +4,8 @@ title: "我们的美好瞬间<br>Our Happy Moments"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image_frontpage: 合照__.jpg
-image: 合照.jpg
+image_frontpage: Inked北京上海东京_LI.jpg
+image: Inked北京上海东京_LI.jpg
 ---
 
 # Millennial
