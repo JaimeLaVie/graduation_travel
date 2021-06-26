@@ -236,6 +236,34 @@ image: 合照.jpg
 <img src="{{ site.github.url }}/assets/img/察尔汗盐湖合照.jpg">
 > 察尔汗盐湖合照
 
+### 乌兰县
+
+<img src="{{ site.github.url }}/assets/img/茶卡西.jpg">
+> 茶卡西收费站
+
+<img src="{{ site.github.url }}/assets/img/茶卡盐湖.jpg">
+> 茶卡盐湖
+
+<img src="{{ site.github.url }}/assets/img/茶卡盐湖2.jpg">
+> 茶卡盐湖
+
+<img src="{{ site.github.url }}/assets/img/茶卡盐雕.jpg">
+> 茶卡盐雕
+
+<img src="{{ site.github.url }}/assets/img/茶卡盐湖工业遗迹.jpg">
+> 茶卡盐湖工业遗迹
+
+### 共和县
+
+<img src="{{ site.github.url }}/assets/img/黑马河汇入青海湖.jpg">
+> 黑马河汇入青海湖
+
+<img src="{{ site.github.url }}/assets/img/青海湖边.jpg">
+> 青海湖边
+
+<img src="{{ site.github.url }}/assets/img/牛羊过马路.jpg">
+> 牛羊过马路
+
 ### 西宁
 
 <img src="{{ site.github.url }}/assets/img/塔尔寺合照.jpg">
