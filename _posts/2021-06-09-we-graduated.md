@@ -14,6 +14,9 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/毕业照_孙.jpg">
 > 永远跟党走的优秀硕士论文获得者——孙大佬
 
+<img src="{{ site.github.url }}/assets/img/毕业照_卞4.jpg">
+> 卞大佬毕业啦！
+
 <img src="{{ site.github.url }}/assets/img/毕业照_卞1.jpg">
 > 卞大佬
 
