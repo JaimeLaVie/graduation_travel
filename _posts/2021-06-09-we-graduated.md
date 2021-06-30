@@ -40,5 +40,9 @@ image: 清华北大.jpeg
 
 [》》了解更多](https://jaimelavie.github.io/)
 
-此处应有王大佬毕业照
+<img src="{{ site.github.url }}/assets/img/毕业照_王1.jpg">
+> 王大佬
+
+<img src="{{ site.github.url }}/assets/img/毕业照_王2.jpg">
+> 王大佬
 
