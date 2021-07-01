@@ -46,3 +46,8 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/毕业照_王2.jpg">
 > 王大佬
 
+<img src="{{ site.github.url }}/assets/img/毕业照_王3.jpg">
+> 王大佬
+
+<img src="{{ site.github.url }}/assets/img/毕业照_王4.jpg">
+> 看看王大佬毕业了笑得多开心
