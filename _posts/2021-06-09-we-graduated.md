@@ -41,6 +41,9 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/毕业照_二校门.jpg">
 > 二校门前的导游徐
 
+<img src="{{ site.github.url }}/assets/img/深圳毕业照.jpg">
+> 深圳校园的毕业照
+
 [》》了解更多](https://jaimelavie.github.io/)
 
 <img src="{{ site.github.url }}/assets/img/毕业照_王1.jpg">
