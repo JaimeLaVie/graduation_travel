@@ -32,11 +32,11 @@ image: 清华北大.jpeg
 <img src="{{ site.github.url }}/assets/img/论文答辩2.jpg">
 > 答辩完的导游徐
 
-<img src="{{ site.github.url }}/assets/img/毕业典礼2.jpg">
-> 毕业典礼上的导游徐
-
 <img src="{{ site.github.url }}/assets/img/拨穗照.jpg">
 > 拨穗照
+
+<img src="{{ site.github.url }}/assets/img/毕业典礼2.jpg">
+> 毕业典礼上的导游徐
 
 <img src="{{ site.github.url }}/assets/img/毕业照_二校门.jpg">
 > 二校门前的导游徐
